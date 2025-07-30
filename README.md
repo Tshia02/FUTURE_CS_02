@@ -16,7 +16,7 @@ This project simulates a Security Operations Center (SOC) scenario where I analy
 | File/Folder | Description |
 |-------------|-------------|
 | `Incident_Response_Report.pdf` | Full report with incident timeline, impact analysis, root cause, and recommendations |
-| `Alert_Classification.xlsx` | Spreadsheet logging all alerts, classification by severity, and key notes |
+| `Alert_Classification.csv` | Spreadsheet logging all alerts, classification by severity, and key notes |
 | `SIEM_Screenshots/` | Contains screenshots of analyzed alerts and SIEM dashboard (Splunk) |
 | `Incident_Notification_Email.txt` | Draft email communication to management regarding the incident |
-| `RE
+
