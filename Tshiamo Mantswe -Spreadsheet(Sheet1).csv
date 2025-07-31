@@ -1,0 +1,6 @@
+,,Alerts Classification Spreadsheet,,,,,
+,,,,,,,
+Incident ID,Timestamp,User,IP Address,Action,Threat Type,Severity,Priority
+1,7/3/2025 9:10,bob,172.16.0.3,Malware detected,Ransomware Behavior,High,High
+2,7/3/2025 7:51,eve,10.0.0.5,Malware detected,Rootkit Signature,High,High
+3,7/3/2025 7:45,charles,172.16.0.3,Malware detected,Trojan Signature,Medium,Medium
